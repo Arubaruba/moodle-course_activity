@@ -1,0 +1,50 @@
+<html>
+<body>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="600" height="900">
+  <defs>
+    <g id="arrow"
+       desc="arrow with a long dashed tail">
+
+      <marker style="overflow:visible;fill:inherit;stroke:inherit"
+              id="Arrow1Mend" refX="0.0" refY="0.0" orient="auto">
+        <path transform="scale(0.4) rotate(180) translate(20,0)"
+              style="fill-rule:evenodd;stroke-width:2.0pt;marker-start:none;"
+              d="M 0.0,-15.0 L -20.5,0.0 L 0.0,15.0 "
+              desc="The actual commands to draw the arrow head"
+          />
+      </marker>
+
+      <line transform="translate(0 -450)"
+            marker-end="url(#Arrow1Mend)"
+            x1="40" y1="10" x2="40" y2="410"
+            style="stroke: black; stroke-dasharray: 5, 5; stroke-width: 1; "
+            desc="This is the tail of the 'arrow'"
+        />
+    </g>
+  </defs>
+
+  <g transform="translate(100 450)">
+    <text> Text BEFORE xlink</text>
+    <use xlink:href="#arrow"/>
+  </g>
+
+  <g transform="translate(200 550)">
+    <use xlink:href="#arrow"/>
+    <text> More to say</text>
+  </g>
+
+  <g transform="translate(300 650)">
+    <use xlink:href="#arrow"/>
+    <text> The last word</text>
+  </g>
+
+  <g transform="translate(400 750)">
+    <use xlink:href="#arrow"/>
+    <text> Text AFTER xlink</text>
+  </g>
+
+</svg>
+</body>
+</html>

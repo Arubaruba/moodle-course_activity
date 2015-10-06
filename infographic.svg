@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 841.89 595.28" style="enable-background:new 0 0 841.89 595.28;" xml:space="preserve">
+	 viewBox="115 99.7 841.9 595.3" style="enable-background:new 115 99.7 841.9 595.3;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#424254;}
-	.st1{fill:#EACCA6;stroke:#EACCA6;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#EACCA6;stroke-miterlimit:10;}
 	.st2{fill:none;}
 	.st3{fill:#65918C;}
-	.st4{font-family:'Helvetica';}
+	.st4{font-family:'ArialMT';}
 	.st5{font-size:12.6069px;}
 	.st6{fill:#EACCA6;}
 	.st7{font-size:13.8676px;}
@@ -18,45 +18,34 @@
 	.st12{fill:#CE2742;}
 	.st13{font-size:37.8208px;}
 </style>
-<g id="background_x5F_container">
-	<rect id="background" class="st0" width="841.89" height="595.28"/>
+<g id="background-container">
+	<rect id="background" x="115" y="99.7" class="st0" width="841.9" height="595.3"/>
 </g>
-<g id="course-template">
-	<g id="timeline-label-template">
-		<line id="date-line" class="st1" x1="792.725" y1="118.333" x2="792.725" y2="93.267"/>
-		
-			<rect id="XMLID_5_" x="763.945" y="154.243" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 1237.509 835.2567)" class="st2" width="55.593" height="14.179"/>
-		<text id="date-value" transform="matrix(0.7071 0.7071 -0.7071 0.7071 770.6996 143.0648)" class="st3 st4 st5">21 March</text>
-		
-			<rect id="XMLID_63_" x="778.44" y="136.765" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 1260.5831 811.9804)" class="st2" width="40.037" height="16.3"/>
-		<text id="date-label" transform="matrix(0.7071 0.7071 -0.7071 0.7071 783.0254 132.0385)" class="st6 st4 st7">Today</text>
-	</g>
-	<g id="enrolled-users">
-		<g id="student-template">
-			<g id="line_1_">
-				<g id="XMLID_18_">
-					<line id="XMLID_21_" class="st8" x1="0" y1="106.958" x2="0.5" y2="106.958"/>
-					<line id="XMLID_20_" class="st9" x1="3.507" y1="106.958" x2="839.887" y2="106.958"/>
-					<line id="XMLID_19_" class="st8" x1="841.39" y1="106.958" x2="841.89" y2="106.958"/>
-				</g>
-			</g>
-			<rect id="XMLID_14_" x="38" y="99.504" class="st2" width="187.617" height="14.907"/>
-			<text id="name" transform="matrix(1 0 0 1 37.9999 110.992)" class="st6 st4 st10">Andreas Stocker</text>
-			<g id="activity-marks">
-				<polygon id="mark" class="st11" points="222.016,113.195 218.414,106.958 222.016,100.72 229.218,100.72 232.819,106.958 
-					229.218,113.195 				"/>
-			</g>
+<g id="timeline-label-template">
+	<line id="date-line" class="st1" x1="907.7" y1="218.1" x2="907.7" y2="193"/>
+	
+		<rect id="XMLID_5_" x="879" y="254" transform="matrix(0.7071 0.7071 -0.7071 0.7071 450.1759 -564.7047)" class="st2" width="55.6" height="14.2"/>
+	<text id="date-value" transform="matrix(0.7071 0.7071 -0.7071 0.7071 885.6998 242.7847)" class="st3 st4 st5">21 March</text>
+	
+		<rect id="XMLID_63_" x="893.4" y="236.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 440.5343 -574.2618)" class="st2" width="40" height="16.3"/>
+	<text id="date-label" transform="matrix(0.7071 0.7071 -0.7071 0.7071 898.025 231.7584)" class="st6 st4 st7">Today</text>
+</g>
+<g id="student-row-template">
+	<g>
+		<g id="XMLID_18_">
+			<line id="XMLID_21_" class="st8" x1="115" y1="206.7" x2="115.5" y2="206.7"/>
+			<line id="XMLID_20_" class="st9" x1="118.5" y1="206.7" x2="954.9" y2="206.7"/>
+			<line id="XMLID_19_" class="st8" x1="956.4" y1="206.7" x2="956.9" y2="206.7"/>
 		</g>
 	</g>
-	<g id="course-name-banner">
-		<polygon id="XMLID_10_" class="st12" points="51.781,65.975 31.373,43.468 51.781,20.961 295.579,20.961 315.987,43.468 
-			295.579,65.975 		"/>
-		<rect id="XMLID_26_" y="36.499" class="st12" width="841.89" height="13.939"/>
-		<rect id="XMLID_2_" x="38" y="29.529" class="st2" width="270.652" height="27.878"/>
-		<text id="course-name-label" transform="matrix(1 0 0 1 78.7559 56.6841)" class="st6 st4 st13">COMP-114</text>
-	</g>
-	<g id="guides">
-		<line id="mark-area" class="st2" x1="225.617" y1="106.958" x2="792.725" y2="106.958"/>
-	</g>
+	<text id="student-name" transform="matrix(1 0 0 1 152.9999 210.712)" class="st6 st4 st10">Andreas Stocker</text>
+</g>
+<g id="mark-template">
+	<polygon id="mark" class="st11" points="337,212.9 333.4,206.7 337,200.4 344.2,200.4 347.8,206.7 344.2,212.9 	"/>
+</g>
+<g id="course-banner-template">
+	<polygon id="XMLID_10_" class="st12" points="166.8,165.7 146.4,143.2 166.8,120.7 410.6,120.7 431,143.2 410.6,165.7 	"/>
+	<rect id="XMLID_26_" x="115" y="136.2" class="st12" width="841.9" height="13.9"/>
+	<text id="course-name" transform="matrix(1 0 0 1 193.7559 156.4041)" class="st6 st4 st13">COMP-114</text>
 </g>
 </svg>
