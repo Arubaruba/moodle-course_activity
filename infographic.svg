@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="115 99.7 841.9 595.3" style="enable-background:new 115 99.7 841.9 595.3;" xml:space="preserve">
+	 viewBox="-223 695 841.9 595.3" style="enable-background:new -223 695 841.9 595.3;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#424254;}
 	.st1{fill:none;stroke:#EACCA6;stroke-miterlimit:10;}
@@ -22,46 +22,48 @@
 	.st16{font-size:37.8208px;}
 </style>
 <g id="background-container">
-	<rect id="background" x="115" y="99.7" class="st0" width="841.9" height="595.3"/>
+	<rect id="background" x="-223" y="695" class="st0" width="841.9" height="595.3"/>
 </g>
 <g id="timeline-label-template">
-	<line id="date-line" class="st1" x1="907.7" y1="197.1" x2="907.7" y2="172"/>
+	<line id="date-line_2_" class="st1" x1="569.7" y1="792.4" x2="569.7" y2="767.3"/>
 	
-		<rect id="XMLID_5_" x="879" y="233" transform="matrix(0.7071 0.7071 -0.7071 0.7071 435.3543 -570.8441)" class="st2" width="55.6" height="14.2"/>
-	<text id="date-value" transform="matrix(0.7071 0.7071 -0.7071 0.7071 885.6998 221.8248)" class="st3 st4 st5">21 March</text>
+		<rect id="XMLID_12_" x="541" y="828.3" transform="matrix(0.7071 0.7071 -0.7071 0.7071 757.2829 -157.4884)" class="st2" width="55.6" height="14.2"/>
+	<text id="date-value_2_" transform="matrix(0.7071 0.7071 -0.7071 0.7071 547.6998 817.1048)" class="st3 st4 st5">21 March</text>
 	
-		<rect id="XMLID_63_" x="893.4" y="215.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 425.7126 -580.4012)" class="st2" width="40" height="16.3"/>
-	<text id="date-label" transform="matrix(0.7071 0.7071 -0.7071 0.7071 898.025 210.7984)" class="st6 st4 st7">Today</text>
+		<rect id="XMLID_9_" x="555.4" y="810.8" transform="matrix(0.7071 0.7071 -0.7071 0.7071 747.6412 -167.0456)" class="st2" width="40" height="16.3"/>
+	<text id="date-label_2_" transform="matrix(0.7071 0.7071 -0.7071 0.7071 560.025 806.0784)" class="st6 st4 st7">Today</text>
 </g>
 <g id="interactive-seeker-template">
 	<g id="interactive-seeker-indicator">
-		<line id="seeker-line" class="st8" x1="340.6" y1="199.4" x2="340.6" y2="174.3"/>
-		<rect x="306" y="155.5" class="st2" width="69.3" height="13.6"/>
-		<text id="seeker-date" transform="matrix(1 0 0 1 312.2725 164.1133)" class="st6 st4 st9">21 Mar ‘15</text>
-		<polyline class="st10" points="347.2,169.7 340.6,176.2 334.1,169.7 		"/>
+		<line id="seeker-line" class="st8" x1="2.6" y1="794.7" x2="2.6" y2="769.6"/>
+		<rect x="-32" y="750.8" class="st2" width="69.3" height="13.6"/>
+		<text id="seeker-date" transform="matrix(1 0 0 1 -25.7276 759.3933)" class="st6 st4 st9">21 Mar ‘15</text>
+		<polyline class="st10" points="9.2,765 2.6,771.5 -3.9,765 		"/>
 	</g>
-	<rect id="interactive-trigger" x="341.1" y="185.7" class="st11" width="566.1" height="30"/>
+	<rect id="interactive-trigger_2_" x="3.1" y="781" class="st11" width="566.1" height="30"/>
 </g>
 <g id="student-row-template">
 	<g>
 		<g id="XMLID_1_">
-			<line id="XMLID_4_" class="st12" x1="115" y1="185.7" x2="115.5" y2="185.7"/>
-			<line id="XMLID_3_" class="st13" x1="118.5" y1="185.7" x2="954.9" y2="185.7"/>
-			<line id="XMLID_2_" class="st12" x1="956.4" y1="185.7" x2="956.9" y2="185.7"/>
+			<line id="XMLID_4_" class="st12" x1="-223" y1="781" x2="-222.5" y2="781"/>
+			<line id="XMLID_3_" class="st13" x1="-219.5" y1="781" x2="616.9" y2="781"/>
+			<line id="XMLID_2_" class="st12" x1="618.4" y1="781" x2="618.9" y2="781"/>
 		</g>
 	</g>
-	<text id="student-name" transform="matrix(1 0 0 1 152.9999 189.751)" class="st6 st4 st14">Andreas Stocker</text>
+	<text id="student-name" transform="matrix(1 0 0 1 -185.0001 785.031)" class="st6 st4 st14">Andreas Stocker</text>
 </g>
 <g id="mark-template">
-	<polygon id="mark" class="st15" points="338,192 334.4,185.7 338,179.5 345.2,179.5 348.8,185.7 345.2,192 	"/>
+	<polygon id="mark_2_" class="st15" points="0,787.2 -3.6,781 0,774.8 7.2,774.8 10.8,781 7.2,787.2 	"/>
+	<polygon id="mark_1_" class="st15" points="-226.5,701 -230,695 -226.5,689 -219.5,689 -216,695 -219.5,701 	"/>
 </g>
 <g id="course-banner-template">
-	<polygon class="st10" points="956.9,99.7 424.7,99.7 410.6,99.7 166.8,99.7 152.7,99.7 115.5,99.7 115,129.2 152.7,129.2 
-		166.8,144.7 410.6,144.7 424.7,129.2 956.9,129.2 	"/>
-	<rect x="163" y="108.1" class="st2" width="269" height="28.2"/>
-	<text id="course-name" transform="matrix(1 0 0 1 202.9297 135.2822)" class="st6 st4 st16">COMP-114</text>
+	<polygon class="st10" points="618.9,695 86.7,695 72.6,695 -171.2,695 -185.3,695 -222.5,695 -223,724.5 -185.3,724.5 -171.2,740 
+		72.6,740 86.7,724.5 618.9,724.5 	"/>
+	<rect x="-185" y="702.1" class="st2" width="271.3" height="28.2"/>
+	<text id="course-name" transform="matrix(1 0 0 1 -143.9312 729.2285)" class="st6 st4 st16">COMP-114</text>
+	<line class="st6" x1="-222.5" y1="695" x2="-223" y2="742"/>
 </g>
 <g id="guides">
-	<line id="mark-domain" class="st2" x1="340.6" y1="185.7" x2="907.7" y2="185.7"/>
+	<line id="mark-domain_2_" class="st2" x1="2.6" y1="781" x2="569.7" y2="781"/>
 </g>
 </svg>
